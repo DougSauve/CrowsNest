@@ -1,0 +1,11 @@
+{
+  "name": "crowsnest",
+  "version": "1.0.0",
+  "description": "Keeps watch for tornadoes and other nasty weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Doug Sauve",
+  "license": "ISC"
+}
